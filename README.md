@@ -2,7 +2,7 @@
 
 ![screenshot](https://github.com/rkang246/bs-bot/blob/master/images/bs_bot_screenshot.png)
 
-BS, also known as the PG variants of Liar, Cheat, I-Doubt-It, Bluff, and Bologna, is a card game where the goal is to get rid of all your cards before anyone else.
+BS, also known as the pg variants Liar, Cheat, I-Doubt-It, Bluff, and Bologna, is a card game where the goal is to get rid of all your cards before anyone else.
 
 This java app is a simple bot that suggests your next move given the number of players, cards in your hand, and next card you should be playing.
 
